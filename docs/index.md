@@ -4,26 +4,6 @@ title: "Disk Analysis & Autopsy — TryHackMe Digital Forensics Case Study"
 description: "Windows digital forensics case study for the TryHackMe Disk Analysis & Autopsy room, covering E01 metadata, user accounts, registry analysis, network artifacts, PowerShell history, Windows Defender, YARA, and deleted archive discovery."
 ---
 
-<div class="ctf-hero">
-
-# Disk Analysis & Autopsy — TryHackMe Digital Forensics Case Study
-
-<p>
-This case study documents an offline Windows forensic examination of the <strong>HASAN2.E01</strong> image using <strong>Autopsy 4.18.0</strong>. The investigation correlates registry, user-profile, network-configuration, browser, PowerShell, and endpoint-detection artifacts to answer fifteen lab questions.
-</p>
-
-<div class="ctf-badges">
-  <span class="ctf-badge">TryHackMe</span>
-  <span class="ctf-badge">Windows</span>
-  <span class="ctf-badge">Medium</span>
-  <span class="ctf-badge">Digital Forensics</span>
-  <span class="ctf-badge">Autopsy 4.18.0</span>
-</div>
-
-</div>
-
----
-
 ## Quick Overview
 
 <div class="ctf-card-grid">
